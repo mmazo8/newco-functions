@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.next/
+.cache/
+.DS_Store
+
+*.zip
+*.mov
+*.mp4
+*.psd
+*.ai
+*.fig
