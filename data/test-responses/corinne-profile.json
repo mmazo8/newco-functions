@@ -1,0 +1,100 @@
+{
+  "homeCountry": "US",
+  "residenceCity": "Novato",
+  "residenceRegion": null,
+  "residenceCountries": [
+    "US",
+    "UK",
+    "Australia"
+  ],
+  "livedInCalifornia": true,
+  "livedInEurope": false,
+  "livedInSSA": false,
+  "livedInJapanOrKorea": false,
+  "isUSResident": true,
+  "visitedCountries": [
+    "United Kingdom",
+    "Switzerland",
+    "Portugal",
+    "Ireland",
+    "France",
+    "Italy",
+    "Singapore",
+    "India",
+    "United States",
+    "Mexico",
+    "New Zealand",
+    "Australia"
+  ],
+  "visitedCECities": [
+    "Paris",
+    "London",
+    "Rome"
+  ],
+  "visitedCACities": [],
+  "visitedCAfCities": [],
+  "visitedCCCities": [
+    "San Francisco",
+    "Los Angeles",
+    "Yosemite"
+  ],
+  "age": 35,
+  "fitness": 7,
+  "completedPBCount": 0,
+  "completedYPCount": 0,
+  "languages": [
+    {
+      "lang": "English",
+      "level": "native"
+    },
+    {
+      "lang": "French",
+      "level": "little bit"
+    },
+    {
+      "lang": "Tamil",
+      "level": "little bit"
+    }
+  ],
+  "landscapes": {
+    "beaches": 10,
+    "mountains": 10,
+    "lakes": 10,
+    "forests": 10,
+    "vineyards": 10,
+    "wildlife": 10,
+    "rainforests": 10,
+    "deserts": 10
+  },
+  "hiking": 5,
+  "camping": 3,
+  "backpacking": 1,
+  "snorkeling": 4,
+  "scuba": 0,
+  "sailing": 2,
+  "paddleboard": 1,
+  "windKite": 0,
+  "kayaking": 2,
+  "surfing": 0,
+  "fishing": 0,
+  "golf": 0,
+  "wildlife_interest": 10,
+  "performing_arts": 8,
+  "art": 4,
+  "history_rating": 5,
+  "extrovert": 0,
+  "foodie": true,
+  "roadTrip": "love",
+  "trainPref": "both",
+  "fearSnakes": false,
+  "fearHeights": false,
+  "friendsFamilyCountries": [
+    "Germany",
+    "Australia",
+    "Singapore",
+    "France"
+  ],
+  "outdoors": 10,
+  "major": "n?For example:Electrical Engineering Film Production - Editing emphasis",
+  "fieldOfWork": "Film Editing"
+}

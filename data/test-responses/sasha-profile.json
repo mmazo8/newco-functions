@@ -1,0 +1,87 @@
+{
+  "homeCountry": "US",
+  "residenceCity": "Los Angeles",
+  "residenceRegion": null,
+  "residenceCountries": [
+    "US"
+  ],
+  "livedInCalifornia": true,
+  "livedInEurope": false,
+  "livedInSSA": false,
+  "livedInJapanOrKorea": false,
+  "isUSResident": true,
+  "visitedCountries": [
+    "Switzerland",
+    "France",
+    "Italy",
+    "Spain",
+    "Israel",
+    "Jordan",
+    "United States",
+    "Canada"
+  ],
+  "visitedCECities": [
+    "Paris"
+  ],
+  "visitedCACities": [],
+  "visitedCAfCities": [],
+  "visitedCCCities": [],
+  "age": 24,
+  "fitness": 8,
+  "completedPBCount": 0,
+  "completedYPCount": 0,
+  "languages": [
+    {
+      "lang": "English",
+      "level": "native"
+    },
+    {
+      "lang": "Spanish",
+      "level": "little bit"
+    },
+    {
+      "lang": "Italian",
+      "level": "little bit"
+    }
+  ],
+  "landscapes": {
+    "beaches": 10,
+    "mountains": 10,
+    "lakes": 10,
+    "forests": 10,
+    "vineyards": 10,
+    "wildlife": 10,
+    "rainforests": 5,
+    "deserts": 5
+  },
+  "hiking": 5,
+  "camping": 4,
+  "backpacking": 5,
+  "snorkeling": 2,
+  "scuba": 1,
+  "sailing": 1,
+  "paddleboard": 1,
+  "windKite": 1,
+  "kayaking": 5,
+  "surfing": 0,
+  "fishing": 4,
+  "golf": 0,
+  "wildlife_interest": 10,
+  "performing_arts": 10,
+  "art": 5,
+  "history_rating": 5,
+  "extrovert": 0,
+  "foodie": true,
+  "roadTrip": "enjoy",
+  "trainPref": "train",
+  "fearSnakes": true,
+  "fearHeights": true,
+  "friendsFamilyCountries": [
+    "Italy",
+    "UK",
+    "France"
+  ],
+  "outdoors": 10,
+  "major": "n?For example:Electrical Engineering Art & Technology",
+  "fieldOfWork": "Design/ Technology"
+}
