@@ -4,6 +4,7 @@ build/
 .next/
 .cache/
 .DS_Store
+.env
 
 *.zip
 *.mov
