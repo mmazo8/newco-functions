@@ -25,7 +25,7 @@
 //   SUPABASE_URL
 //   SUPABASE_ANON_KEY            (read-only; RLS read policies already in place)
 
-const { createClient } = require("@supabase/supabase-js");
+import { createClient } from "@supabase/supabase-js";
 const { buildSystemPrompt } = require("../../lib/chatbot/guidance");
 
 const ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages";
@@ -123,7 +123,7 @@ function sanitizeHistory(history) {
     .map((m) => ({ role: m.role, content: m.content }));
 }
 
-module.exports = async function handler(req, res) {
+export default async function handler(req, res) {
   // CORS — Bubble calls this from the browser/server; allow it.
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "POST, OPTIONS");
